@@ -1,3 +1,5 @@
+##database/config необходимо заменить ключи на свои
+
 # docker-compose up -d 
 # python3 -m venv venv
 # source venv/bin/activate
